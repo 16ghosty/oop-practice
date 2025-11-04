@@ -1,2 +1,2 @@
-class BankAccount:
+class BankAccorijhjunt:
     pass
